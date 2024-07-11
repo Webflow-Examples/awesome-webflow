@@ -69,3 +69,9 @@ Our vision is to build the world’s most powerful no-code development platform 
 - [iframe-manager](https://github.com/Webflow-Examples/iframe-manager-extension) - Designer Extension to manage native iframe content in Webflow Sites
 - [cms-examples](https://github.com/Webflow-Examples/cms-examples) - Data Client App using the Webflow JS SDK to manage CMS collections
 - [cutsom-code-examples](https://github.com/Webflow-Examples/custom-code-examples) - Data Client App walkthrough on adding custom code to sites with various community-led examples
+- [page-analyzer-app](https://github.com/Webflow-Examples/page-analyzer-app) - Data Client App built with Astro, using the Textgears and Groq APIs to analyze page content
+
+### Custom Code Integrations
+
+- [greenhouse-jobs](https://github.com/Webflow-Examples/greenhouse-jobs) - Custom code example using Greenhouse Jobs API to list open positions on a site
+- [Riveflow](https://riveflow.webflow.io/) - Resource tool for showing how to use Webflow Custom Code with Rive assets and the Rive JS runtime to integrate interactive content in different ways (i.e., interactive buttons, scroll-based animations, cursor tracking, and more)
