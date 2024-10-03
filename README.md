@@ -46,6 +46,7 @@ Our vision is to build the world’s most powerful no-code development platform 
 ## 📚 Blogs and Articles
 
 - [Powering Webflow Apps: How we Built the Designer APIs - Part 1](https://webflow.com/blog/designer-apis-part-1) - How Designer APIs and Designer Extension Apps work
+  - [Powering Webflow Apps: How we Built the Designer APIs - Part 2](https://webflow.com/blog/powering-webflow-apps-how-we-built-designer-apis-part-2) - Optimizing performance of v2, bulk APIs, and best practices
 - [Building Data API v2 at Webflow: Part 1](https://webflow.com/blog/webflow-rest-data-apiv2-part-1) - Webflow’s journey of auditing and launching a revamped API for 3rd party developers
 - [Setting up Webflow’s hybrid app example locally with Ngrok](https://lunchpaillabs.com/blog/setting-up-webflow-s-hybrid-app-example-locally-with-ngrok) - Building a Hybrid App with Ngrok for local testing
 - [Webflow named Hubspot’s top marketing app in 2024](https://webflow.com/blog/webflow-hubspot-essential-app-for-marketers) - Discover how marketing teams can start unlocking greater power with Webflow and Hubspot
