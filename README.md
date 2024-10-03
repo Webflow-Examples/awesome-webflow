@@ -62,6 +62,7 @@ Our vision is to build the world’s most powerful no-code development platform 
 - [Introducing the Figma to Webflow App](https://www.youtube.com/watch?v=O9zGylVljbI) - [Webflow](https://www.youtube.com/@Webflow)
 - [Discover the secret ingredient in localization](https://learn.lokalise.com/wolfs-kitchen-localization-success-registration.html?utm_source=linkedin&utm_medium=social&utm_campaign=webflow) - [Lokalize + Webflow Livestream](https://learn.lokalise.com/wolfs-kitchen-localization-success-registration.html?utm_source=linkedin&utm_medium=social&utm_campaign=webflow)
 - [Add AI to your Webflow builds with these Webflow apps](https://www.youtube.com/watch?v=ij6C21wcEoI) - [Webflow](https://www.youtube.com/@Webflow)
+- [Build a Webflow App like the pros](https://www.patreon.com/collection/703037) - [Web Bae](https://webbae.net) _(Paid Course)_
 
 ## 🛠️ Projects
 
