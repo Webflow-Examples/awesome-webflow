@@ -73,6 +73,10 @@ Our vision is to build the world’s most powerful no-code development platform 
 - [cutsom-code-examples](https://github.com/Webflow-Examples/custom-code-examples) - Data Client App walkthrough on adding custom code to sites with various community-led examples
 - [page-analyzer-app](https://github.com/Webflow-Examples/page-analyzer-app) - Data Client App built with Astro, using the Textgears and Groq APIs to analyze page content
 
+### Webflow Cloud Deployments
+
+- [Nextra on Webflow Cloud](https://github.com/lvsao/webflow-nextra) - Production-ready template for deploying Nextra 4.0 documentation sites to Webflow Cloud on Cloudflare Workers, featuring edge runtime compatibility, complete SEO optimization, and deployment guides ([Live Demo](https://selofy.com/nextrademo))
+
 ### Custom Code Integrations
 
 - [greenhouse-jobs](https://github.com/Webflow-Examples/greenhouse-jobs) - Custom code example using Greenhouse Jobs API to list open positions on a site
