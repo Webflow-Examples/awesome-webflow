@@ -31,6 +31,7 @@ Our vision is to build the world’s most powerful no-code development platform 
   - [Example usage](https://github.com/virat21/wf-vue-vite-app/blob/support-for-live-reload/vite-dev.config.js)
 - [webflow-app-monorepo](https://github.com/Web-Bae/webflow-app-monorepo) - Template monorepo for Hybrid Webflow Apps using Svelte + Vite for the Designer Extension, and Cloudflare + Honojs for the backend. Built by [web-bae](https://github.com/Web-Bae)
 - [Webflow App UI Kit 2.0](https://www.figma.com/community/file/1291823507081366246) - Figma UI Kit providing App Developers visual foundations from the Webflow Design System
+- [Webflow Agent Skills](https://github.com/224-Industries/webflow-skills) - Build solutions for and with Webflow using a collection of agent skills for the Browser API, Designer API, and more. Built by [224 Industries](https://224industries.com.au), a Webflow Premium Partner.
 
 ### Documentation
 
@@ -72,6 +73,7 @@ Our vision is to build the world’s most powerful no-code development platform 
 - [cms-examples](https://github.com/Webflow-Examples/cms-examples) - Data Client App using the Webflow JS SDK to manage CMS collections
 - [cutsom-code-examples](https://github.com/Webflow-Examples/custom-code-examples) - Data Client App walkthrough on adding custom code to sites with various community-led examples
 - [page-analyzer-app](https://github.com/Webflow-Examples/page-analyzer-app) - Data Client App built with Astro, using the Textgears and Groq APIs to analyze page content
+- [Webflow AI SDK tools](https://github.com/224-Industries/webflow-ai-sdk) - pre-built agents and tools for the Vercel AI SDK to help you build AI-powered solutions for Webflow more easily. Built by [224 Industries](https://224industries.com.au), a Webflow Premium Partner.
 
 ### Webflow Cloud Deployments
 
