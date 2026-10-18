@@ -81,3 +81,4 @@ Our vision is to build the world’s most powerful no-code development platform 
 
 - [greenhouse-jobs](https://github.com/Webflow-Examples/greenhouse-jobs) - Custom code example using Greenhouse Jobs API to list open positions on a site
 - [Riveflow](https://riveflow.webflow.io/) - Resource tool for showing how to use Webflow Custom Code with Rive assets and the Rive JS runtime to integrate interactive content in different ways (i.e., interactive buttons, scroll-based animations, cursor tracking, and more)
+- [halloween.js](https://halloween.js.org/webflow/) - Open-source Halloween effects (spider webs, blinking eyes, flying witches) added to a Webflow site with one snippet in Site settings → Custom code
