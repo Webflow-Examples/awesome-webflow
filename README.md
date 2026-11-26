@@ -30,8 +30,6 @@ Our vision is to build the world’s most powerful no-code development platform 
 - [@xatom/wf-app-hot-reload](https://www.npmjs.com/package/@xatom/wf-app-hot-reload) - Vite plugin for Designer Extension devs that enables hot-reloading and resolving `/__webflow` requests. Built by [xatom](https://xatom.js.org/)
   - [Example usage](https://github.com/virat21/wf-vue-vite-app/blob/support-for-live-reload/vite-dev.config.js)
 - [webflow-app-monorepo](https://github.com/Web-Bae/webflow-app-monorepo) - Template monorepo for Hybrid Webflow Apps using Svelte + Vite for the Designer Extension, and Cloudflare + Honojs for the backend. Built by [web-bae](https://github.com/Web-Bae)
-- [Webflow App UI Kit 2.0](https://www.figma.com/community/file/1291823507081366246) - Figma UI Kit providing App Developers visual foundations from the Webflow Design System
-
 ### Documentation
 
 - [Designer APIs](https://developers.webflow.com/designer/reference/introduction) - Webflow Designer v2 API documentation
@@ -52,6 +50,7 @@ Our vision is to build the world’s most powerful no-code development platform 
 - [Webflow named Hubspot’s top marketing app in 2024](https://webflow.com/blog/webflow-hubspot-essential-app-for-marketers) - Discover how marketing teams can start unlocking greater power with Webflow and Hubspot
 - [Building beyond boundaries: Enhancing Webflow’s capabilities with Apps](https://webflow.com/blog/building-beyond-boundaries-apps-flowout) - Enterprise Partner, Flowout, enhances Webflow’s capabilities and expands its revenue streams by building Apps for Webflow
 - [Introducing the next generation of Webflow Apps](https://webflow.com/blog/webflow-apps) - Learn more about extending Webflow’s platform with Webflow Apps
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ## 🎥 Videos
 
@@ -75,7 +74,7 @@ Our vision is to build the world’s most powerful no-code development platform 
 
 ### Webflow Cloud Deployments
 
-- [Nextra on Webflow Cloud](https://github.com/lvsao/webflow-nextra) - Production-ready template for deploying Nextra 4.0 documentation sites to Webflow Cloud on Cloudflare Workers, featuring edge runtime compatibility, complete SEO optimization, and deployment guides ([Live Demo](https://selofy.com/nextrademo))
+- [Nextra on Webflow Cloud](https://github.com/lvsao/webflow-nextra) - Production-ready template for deploying Nextra 4.0 documentation sites to Webflow Cloud on Cloudflare Workers, featuring edge runtime compatibility, complete SEO optimization, and deployment guides
 
 ### Custom Code Integrations
 
